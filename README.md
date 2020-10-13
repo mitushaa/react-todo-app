@@ -5,4 +5,4 @@
 * Mark any task
 * Delete any task
 * Edit any task
-* View a specific subset of tasks
+* Add label to the task
