@@ -9,4 +9,7 @@
 
 ## Implementation Steps:
 1. Installation and configuration of React Application
-2. Configuring Redux Structure in 
+2. Configuring Redux Structure 
+3. Perform create, edit, delete and adding label to tasks.
+
+
