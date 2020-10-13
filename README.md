@@ -21,11 +21,6 @@ Advance React: Redux, Redux-thunk middleware
 Implementing actions, reducers and store in redux.
 Roles of Action, Dispatch, Reducer, State, Provider, Connect
 
-## Unit Test Cases: 
 
-
-## Deployed on Heroku
-
-Todo App link - 
 
 
