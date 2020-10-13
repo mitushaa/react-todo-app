@@ -14,3 +14,5 @@
 
 ## Functionality of the project:
 Implementing actions, reducers and store in redux.
+Roles of Action, Dispatch, Reducer, State, Provider, Connect
+
