@@ -21,6 +21,6 @@ Advance React: Redux, Redux-thunk middleware
 Implementing actions, reducers and store in redux.
 Roles of Action, Dispatch, Reducer, State, Provider, Connect
 
-
+ ![](https://miro.medium.com/max/945/1*MunS2ClwlnRMZalN7b4GWA.png)
 
 
