@@ -7,8 +7,10 @@
 * Edit any task
 * Add label to the task
 
-# Technologies used:
-React
+## Technologies used:
+React <br>
+
+Advance React: Redux, Redux-thunk middleware
 
 ## Implementation Steps:
 1. Installation and configuration of React Application
