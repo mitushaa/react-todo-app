@@ -12,4 +12,5 @@
 2. Configuring Redux Structure 
 3. Perform create, edit, delete and adding label to tasks.
 
-
+## Functionality of the project:
+Implementing actions, reducers and store in redux.
