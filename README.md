@@ -6,3 +6,7 @@
 * Delete any task
 * Edit any task
 * Add label to the task
+
+## Implementation Steps:
+1. Installation and configuration of React Application
+2. Configuring Redux Structure in 
